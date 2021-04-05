@@ -7,7 +7,7 @@
     "publisher": "disukharev",
     "displayName": "sukharev",
     "description": "Sukharev color theme",
-    "version": "0.0.4",
+    "version": "0.0.7",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -19,7 +19,7 @@
             {
                 "label": "Sukharev",
                 "uiTheme": "vs-dark",
-                "path": "./themes/sukharev.color-theme.jsonc"
+                "path": "./themes/Sukharev-color-theme.json"
             }
         ]
     }

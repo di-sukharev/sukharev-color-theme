@@ -73,7 +73,7 @@
 		//"debugIcon.stopForeground": "#f48771",
 		//"debugTokenExpression.boolean": "#4e94ce",
 		//"debugTokenExpression.error": "#f48771",
-		// "debugTokenExpression.name": "#c586c0",
+		// "debugTokenExpression.name": "#ef6363",
 		//"debugTokenExpression.number": "#b5cea8",
 		//"debugTokenExpression.string": "#ce9178",
 		//"debugTokenExpression.value": "#cccccc99",
@@ -983,7 +983,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#C586C0"
+				"foreground": "#ef6363"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 		{
 			"scope": "token.debug-token",
 			"settings": {
-				"foreground": "#B267E6"
+				"foreground": "#ec5151"
 			}
 		}
 	]
