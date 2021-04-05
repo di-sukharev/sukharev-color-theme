@@ -73,7 +73,7 @@
 		//"debugIcon.stopForeground": "#f48771",
 		//"debugTokenExpression.boolean": "#4e94ce",
 		//"debugTokenExpression.error": "#f48771",
-		// "debugTokenExpression.name": "#ef6363",
+		// "debugTokenExpression.name": "#ffffff",
 		//"debugTokenExpression.number": "#b5cea8",
 		//"debugTokenExpression.string": "#ce9178",
 		//"debugTokenExpression.value": "#cccccc99",
@@ -626,7 +626,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#ec5151"
 			}
 		},
 		{
@@ -742,7 +742,7 @@
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#ec5151"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#ec5151"
 			}
 		},
 		{
@@ -883,7 +883,7 @@
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#ec5151"
 			}
 		},
 		{
@@ -983,7 +983,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#ef6363"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -994,7 +994,7 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#ec5151"
 			}
 		},
 		{
@@ -1003,7 +1003,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#4FC1FF"
+				"foreground": "#ec5151"
 			}
 		},
 		{
@@ -1011,7 +1011,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#9CDCFE"
+				"foreground": "#ef6363"
 			}
 		},
 		{
