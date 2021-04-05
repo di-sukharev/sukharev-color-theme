@@ -7,7 +7,7 @@
     "publisher": "disukharev",
     "displayName": "Sukharev",
     "description": "Sukharev color theme",
-    "version": "0.0.8",
+    "version": "0.0.13",
     "engines": {
         "vscode": "^1.55.0"
     },
