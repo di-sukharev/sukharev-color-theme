@@ -4,7 +4,7 @@
     "publisher": "disukharev",
     "displayName": "Sukharev",
     "description": "Sukharev color theme",
-    "version": "0.0.15",
+    "version": "0.0.16",
     "icon": "img/ava.png",
     "engines": {
         "vscode": "^1.55.0"
