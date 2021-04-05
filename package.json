@@ -1,0 +1,22 @@
+{
+    "name": "sukharev",
+    "publisher": "sukharev",
+    "displayName": "sukharev",
+    "description": "Sukharev color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sukharev",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Sukharev-color-theme.json"
+            }
+        ]
+    }
+}
