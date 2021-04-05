@@ -2,7 +2,7 @@
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
 	"colors": {
-		"activityBarBadge.background": "#007acc",
+		"activityBarBadge.background": "#ec5151",
 		"editor.background": "#1e1e1e",
 		"editor.foreground": "#d4d4d4",
 		"editor.inactiveSelectionBackground": "#3a3d41",
@@ -602,7 +602,7 @@
 				"keyword.operator.minus.exponent"
 			],
 			"settings": {
-				"foreground": "#6D966C"
+				"foreground": "#268AC3"
 			}
 		},
 		{
@@ -855,13 +855,13 @@
 				"keyword.operator.logical",
 			],
 			"settings": {
-				"foreground": "#ec5151"
+				"foreground": "#ef6363"
 			}
 		},
 		{
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#ec5151"
+				"foreground": "#ef6363"
 			}
 		},
 		{
