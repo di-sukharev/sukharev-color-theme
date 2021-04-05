@@ -73,7 +73,7 @@
 		//"debugIcon.stopForeground": "#f48771",
 		//"debugTokenExpression.boolean": "#4e94ce",
 		//"debugTokenExpression.error": "#f48771",
-		//"debugTokenExpression.name": "#ef6363",
+		// "debugTokenExpression.name": "#c586c0",
 		//"debugTokenExpression.number": "#b5cea8",
 		//"debugTokenExpression.string": "#ce9178",
 		//"debugTokenExpression.value": "#cccccc99",
@@ -585,7 +585,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#6D966C"
+				"foreground": "#6A9955"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 		{
 			"scope": "punctuation.definition.quote.begin.markdown",
 			"settings": {
-				"foreground": "#6D966C"
+				"foreground": "#6A9955"
 			}
 		},
 		{
@@ -983,7 +983,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#ef6363"
+				"foreground": "#C586C0"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 		{
 			"scope": "token.debug-token",
 			"settings": {
-				"foreground": "#ec5151"
+				"foreground": "#B267E6"
 			}
 		}
 	]
