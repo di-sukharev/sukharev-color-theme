@@ -853,6 +853,12 @@
       }
     },
     {
+      "scope": "markup.inserted",
+      "settings": {
+        "foreground": "#AFC563"
+      }
+    },
+    {
       "scope": "markup.bold",
       "settings": {
         "foreground": "#268AC3",
@@ -888,8 +894,6 @@
       "scope": [
         "punctuation.definition.markdown",
         "fenced_code.block.language",
-        "punctuation.definition.quote.begin.markdown",
-        "punctuation.definition.list.begin.markdown"
       ],
       "settings": {
         "foreground": "#DA846B"
