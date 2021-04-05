@@ -1,9 +1,13 @@
 {
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:di-sukharev/sukharev-color-theme.git"
+    },
     "name": "sukharev",
-    "publisher": "sukharev",
+    "publisher": "disukharev",
     "displayName": "sukharev",
     "description": "Sukharev color theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.55.0"
     },
