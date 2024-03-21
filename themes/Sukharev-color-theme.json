@@ -176,6 +176,13 @@
       }
     },
     {
+      "name": "Accessor optional",
+      "scope": ["punctuation.accessor.optional"],
+      "settings": {
+        "foreground": "#F38523"
+      }
+    },
+    {
       "scope": [
         "constant.character.character-class.regexp",
         "constant.other.character-class.set.regexp",
