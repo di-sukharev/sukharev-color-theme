@@ -102,7 +102,7 @@
     {
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#9cdcfe"
+        "foreground": "#008FBA"
       }
     },
     {
@@ -223,7 +223,7 @@
     {
       "scope": "meta.structure.dictionary.key.python",
       "settings": {
-        "foreground": "#9cdcfe"
+        "foreground": "#008FBA"
       }
     },
     {
@@ -300,7 +300,7 @@
         "source.coffee.embedded"
       ],
       "settings": {
-        "foreground": "#9cdcfe"
+        "foreground": "#008FBA"
       }
     },
     {
@@ -356,7 +356,7 @@
     {
       "scope": "support.function.git-rebase",
       "settings": {
-        "foreground": "#9cdcfe"
+        "foreground": "#008FBA"
       }
     },
     {
