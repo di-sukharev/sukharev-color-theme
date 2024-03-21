@@ -1,24 +1,24 @@
 {
-    "repository": "https://github.com/di-sukharev/sukharev-color-theme",
-    "name": "sukharev",
-    "publisher": "disukharev",
-    "displayName": "Sukharev",
-    "description": "Sukharev color theme",
-    "version": "1.1.1",
-    "icon": "img/ava.png",
-    "engines": {
-        "vscode": "^1.55.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Sukharev",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Sukharev-color-theme.json"
-            }
-        ]
-    }
+  "repository": "https://github.com/di-sukharev/sukharev-color-theme",
+  "name": "sukharev",
+  "publisher": "disukharev",
+  "displayName": "Sukharev color theme",
+  "description": "Sukharev style",
+  "version": "1.1.1",
+  "icon": "img/ava.png",
+  "engines": {
+    "vscode": "^1.55.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sukharev color theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sukharev-color-theme.json"
+      }
+    ]
+  }
 }
