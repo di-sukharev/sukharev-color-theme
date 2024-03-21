@@ -9,6 +9,9 @@
   "engines": {
     "vscode": "^1.55.0"
   },
+  "scripts": {
+    "publish": "npm version patch && git add . && git commit -m 'publish' && git push && vsce package && vsce publish"
+  },
   "categories": [
     "Themes"
   ],
