@@ -78,7 +78,7 @@
         "keyword.operator.minus.exponent"
       ],
       "settings": {
-        "foreground": "#f4ff2d"
+        "foreground": "#E3D233"
       }
     },
     {
@@ -162,7 +162,7 @@
     {
       "scope": "markup.inserted",
       "settings": {
-        "foreground": "#f4ff2d"
+        "foreground": "#E3D233"
       }
     },
     {
@@ -217,7 +217,7 @@
     {
       "scope": "meta.preprocessor.numeric",
       "settings": {
-        "foreground": "#f4ff2d"
+        "foreground": "#E3D233"
       }
     },
     {
@@ -341,7 +341,7 @@
     {
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#f4ff2d"
+        "foreground": "#E3D233"
       }
     },
     {
@@ -362,7 +362,7 @@
     {
       "scope": "constant.sha.git-rebase",
       "settings": {
-        "foreground": "#f4ff2d"
+        "foreground": "#E3D233"
       }
     },
     {
@@ -389,6 +389,6 @@
     "newOperator": "#5283C5",
     "stringLiteral": "#F8CBA0",
     "customLiteral": "#5283C5",
-    "numberLiteral": "#f4ff2d"
+    "numberLiteral": "#E3D233"
   }
 }
