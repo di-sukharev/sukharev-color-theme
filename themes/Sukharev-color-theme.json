@@ -117,7 +117,7 @@
       "name": "Function member",
       "scope": ["entity.name.function.member"],
       "settings": {
-        "foreground": "#629FDB"
+        "foreground": "#0096C3"
       }
     },
     {
@@ -140,6 +140,13 @@
       ],
       "settings": {
         "foreground": "#F8CBA0"
+      }
+    },
+    {
+      "name": "Variable parameter",
+      "scope": ["variable.parameter"],
+      "settings": {
+        "foreground": "#0096C3"
       }
     },
     {
